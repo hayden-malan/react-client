@@ -8,8 +8,8 @@ it's a real sweet app
 ### install
 
 ```
-git clone https://github.com/tatyana-malan/Hayden Github Page
-cd 
+git clone https://github.com/hayden-malan/react-client Github Page
+cd
 npm install
 ```
 
