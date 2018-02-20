@@ -8,7 +8,7 @@ it's a real sweet app
 ### install
 
 ```
-git clone https://github.com/hayden-malan/react-client Github Page
+git clone https://github.com/hayden-malan/react-client 
 cd
 npm install
 ```
