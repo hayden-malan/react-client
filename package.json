@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tatyana-malan/Hayden Github Page"
+    "url": "https://github.com/hayden-malan/react-client Github Page"
   },
-  "author": "tatyana-malan",
+  "author": "hayden-malan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tatyana-malan/Hayden Github Page/issues"
+    "url": "https://github.com/hayden-malan/react-client Github Page/issues"
   },
-  "homepage": "https://github.com/tatyana-malan/Hayden Github Page",
+  "homepage": "https://github.com/hayden-malan/react-client Github Page",
   "dependencies": {},
   "devDependencies": {
     "babel-preset-es2015": "^6.5.0",
